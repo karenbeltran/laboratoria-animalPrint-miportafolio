@@ -16,7 +16,7 @@ a{
 }
 
 a:hover{
-	color: #DF7401; 
+	color: #DF7401;
 }
 
 .inicio{
@@ -76,7 +76,7 @@ a:hover{
           position:relative;
           left:90px;
 }
- 
+
 
 .imagenEjemplo{
   width: 200px;
@@ -85,13 +85,13 @@ a:hover{
   left:120px;
 }
 
-footer{ 
+footer{
 	position: relative;
 	left: 5px;
 	top: 30px;
 	height: 50px;
 	padding: 2px;
-	color:white; 
+	color:white;
 	background-color: black;
 }
 
@@ -99,5 +99,3 @@ footer{
 	text-align: left;
 	color: white;
 }
-
-
