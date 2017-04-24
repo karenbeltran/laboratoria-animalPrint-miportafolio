@@ -1,0 +1,57 @@
+header{
+	height: 500px;
+	background-color: #f9a91a;
+	color: white;
+	position: relative;
+}
+
+a{
+	margin:10px;
+	position: absolute;
+	color: white;
+	text-decoration:none;
+	top: 40px;
+
+}
+
+a:hover{
+	color: #DF7401; 
+}
+
+.inicio{
+	right: 350px;
+}
+
+.portafolio{
+	right: 200px;
+}
+
+.contacto{
+	right: 70px;
+}
+
+.boton-sumate{
+	background-color: #DF7401;
+	color: white;
+	position: absolute;
+	top: 50px;
+	left: 80px;
+	width: 100px;
+	height: 40px;
+	border: none;
+}
+
+.boton-sumate:hover{
+	background-color: #F7D358;
+	color: black;
+}
+
+.texto-header{
+	top:220px;
+	position:relative;
+}
+
+.texto-h5{
+	top:210px;
+	position:relative;
+}
