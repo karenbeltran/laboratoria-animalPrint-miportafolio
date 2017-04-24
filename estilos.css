@@ -1,3 +1,31 @@
+
+.contenedor{
+          width: 80%;
+          height: 400px;
+          background :#fd9100;
+          display:inline block;
+          margin:40px 120px;
+          z-index: 1;
+}
+.ejemplos{
+          width: 35%;
+          height:350px;
+          margin:30px;
+          border:5px solid #951132;
+          display:inline-block;
+          z-index: 10;
+          position:relative;
+          left:90px;
+}
+ 
+
+.imagenEjemplo{
+  width: 200px;
+  height:200px;
+  position:relative;
+  left:120px;
+}
+
 footer{ 
 	position: relative;
 	left: 5px;
@@ -12,3 +40,4 @@ footer{
 	text-align: left;
 	color: white;
 }
+
