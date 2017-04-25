@@ -62,7 +62,8 @@ a:hover{
           width: 80%;
           height: 400px;
           background :#fd9100;
-          display:inline block;
+					display: inline-block;
+				  position: relative;
           margin:40px 120px;
           z-index: 1;
 					text-align: center;
@@ -80,11 +81,18 @@ a:hover{
 
 
 .imagenEjemplo{
-  width: 200px;
-  height:200px;
-  position:relative;
+	position: relative;
+	width: 50%;
+	height: 50%;
 }
-
+		.derecha{
+			position: relative;
+			left: 0%;
+		}
+		.izquierda{
+		 position: relative;
+		 left: 0%;
+	 }
 h3{
 	text-align: center;
 }

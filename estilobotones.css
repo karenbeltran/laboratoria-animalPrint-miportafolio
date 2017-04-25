@@ -1,0 +1,24 @@
+#meme{
+  display: inline-block;
+  position: relative;
+
+}
+
+#meme .boton{
+  display: inline-block;
+  background: #000;
+  color: #fff;
+}
+#meme .izquierda{
+  position: relative;
+  left: 0%;
+}
+#meme .derecha{
+  position: relative;
+  left: 0%;
+}
+#meme .imagenEjemplo{
+   position: relative;
+   width: 50%;
+   height: 50%;
+}
